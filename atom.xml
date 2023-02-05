@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liaoke01.github.io/boke</id>
+    <title>廖轲的博客</title>
+    <updated>2023-02-05T09:41:28.397Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liaoke01.github.io/boke"/>
+    <link rel="self" href="https://liaoke01.github.io/boke/atom.xml"/>
+    <subtitle>温故而知新---廖轲</subtitle>
+    <logo>https://liaoke01.github.io/boke/images/avatar.png</logo>
+    <icon>https://liaoke01.github.io/boke/favicon.ico</icon>
+    <rights>All rights reserved 2023, 廖轲的博客</rights>
+</feed>
